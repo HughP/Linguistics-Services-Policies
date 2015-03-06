@@ -6,10 +6,13 @@ Founders of new services focusing on linguistics, language, and cultural heritag
 The purpose of this document is to create an outline which service providers can use to determine if there are additional concerns which need to be addressed in their public facing policy statements.
 
 #Questions
-
+##What constitutes "their data"?
+There are several kinds of data: Transactional, derivative, provided, user data, etc.
 
 ##Does the policy address data at rest?
 ###Legal jurisdiction
+What legal jurisdiction can "acquire" access to the data, and can they do it silently? Does the service provider have an annual transparency report?
+###Physical security of data storage
 ##Does the policy address data in transit?
 ###Encryption
 ##Does the policy address user transaction data?
@@ -19,7 +22,6 @@ The purpose of this document is to create an outline which service providers can
 ###USA context
 ###UK context
 
-##What constitutes "their data" There are several kinds of data: Transactional, derivative, provided, user data, etc.
 
 
 ## License
