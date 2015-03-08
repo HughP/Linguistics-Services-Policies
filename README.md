@@ -17,7 +17,7 @@ _What level of security is the data storage center have?_
 ##Does the policy address data in transit?
 _When data is transvered from the service provider (server) to the client, how is the data protected?_
 ###Encryption
-What encrypytion protocalls are used?
+What encrypytion protocols are used?
 ##Does the policy address user transaction data?
 ##Does the policy address data redundancy?
 How often, when, and where is contriguted data duplicated so that it is recoverable by the service provider?
