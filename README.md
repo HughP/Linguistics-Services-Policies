@@ -11,16 +11,23 @@ There are several kinds of data: Transactional, derivative, provided, user data,
 
 ##Does the policy address data at rest?
 ###Legal jurisdiction
-What legal jurisdiction can "acquire" access to the data, and can they do it silently? Does the service provider have an annual transparency report?
+What legal jurisdiction can "acquire" access to the data, and can they do it silently? Does the service provider have an annual transparency report? Does the service provider make a statement which says that they have not been gaged?
 ###Physical security of data storage
+_What level of security is the data storage center have?_
 ##Does the policy address data in transit?
+_When data is transvered from the service provider (server) to the client, how is the data protected?_
 ###Encryption
+What encrypytion protocalls are used?
 ##Does the policy address user transaction data?
 ##Does the policy address data redundancy?
+How often, when, and where is contriguted data duplicated so that it is recoverable by the service provider?
 ##Does the policy address privacy and in which contexts?
 ###EU context
+Issues like right to be forgotten... etc. (just for an example)
 ###USA context
+data laws about content stored in the USA apply.
 ###UK context
+i.e the use of cookies
 
 
 
