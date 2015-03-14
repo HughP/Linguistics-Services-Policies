@@ -5,6 +5,10 @@ Founders of new services focusing on linguistics, language, and cultural heritag
 ###Purpose
 The purpose of this document is to create an outline which service providers can use to determine if there are additional concerns which need to be addressed in their public facing policy statements.
 
+###Goal
+I would hope that there might be a template like the contract at :https://github.com/ericandrewlewis/web-development-contract/blob/master/contract.md
+But then there would also be an explanatory file.
+
 #Questions
 ##What constitutes "their data"?
 There are several kinds of data: Transactional, derivative, provided, user data, etc.
